@@ -24,7 +24,7 @@ msgstr ""
 
 #: src/seedsigner/l10n_automation_smoketest.py
 msgid "SeedSigner l10n automation smoke-test string"
-msgstr "seedsigner 10 testttttttttttttttttttttttttttttttttt"
+msgstr "seedsigner 10 testttttttttttttttttttttttttttttttttt again"
 
 #. Testnet bitcoin
 #: src/seedsigner/gui/components.py
